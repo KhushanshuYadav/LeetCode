@@ -10,35 +10,46 @@
  */
 class Solution {
 public:
-    /*bool isCriticalPoint(ListNode*&node,ListNode*&prev){
-
-        return 
-        (
-
-
-
-
-
-        );
-
-    }*/
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
 
         ListNode*curr=head->next;
         ListNode*prev=head;
         vector<int>ans(2,-1);
-        vector<int>v;
+        //vector<int>v;
         int pos=2;  //curr is at second node
+        int prevPos=-1;
+        int mn=INT_MAX;
+        int mx=INT_MIN;
+        int firstCPos=-1;
 
         while( curr){
 
 
             if( curr->next && (curr->val > prev->val && curr->val > curr->next->val) ){
-                v.push_back(pos);
+                //v.push_back(pos);
+                if(prevPos==-1){
+                    prevPos=pos;
+                    firstCPos=pos;
+                }
+                else{
+
+                    mn=min(mn,pos-prevPos);
+                    prevPos=pos;
+
+                }
             }
 
             else if( curr->next && (curr->val < prev->val && curr->val < curr->next->val) ){
-                v.push_back(pos);
+               if(prevPos==-1){
+                    prevPos=pos;
+                    firstCPos=pos;
+                }
+                else{
+
+                    mn=min(mn,pos-prevPos);
+                    prevPos=pos;
+
+                }
             }
             
             pos++;
@@ -46,21 +57,14 @@ public:
             curr=curr->next;
         }
 
-        if(v.size()<2) return ans;
-        
-        
-        int mn=INT_MAX;
-        for(int i=1;i<v.size();i++){
-            mn=min(mn,v[i]-v[i-1]);
-        }
-        
-        ans[0]=mn;
-        ans[1]=v[v.size()-1]-v[0];
-        return ans;
+        if(firstCPos==1) return {-1,-1};
+        if(mn==INT_MAX) return {-1,-1};
 
-        
-
-        
+        return {mn,prevPos-firstCPos};
 
     }
+
+    
+
+    
 };
