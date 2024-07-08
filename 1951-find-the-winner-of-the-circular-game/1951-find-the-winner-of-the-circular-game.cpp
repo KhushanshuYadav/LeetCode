@@ -1,28 +1,14 @@
 class Solution {
+    private:
+    int helper(int n,int k){
+        if(n==1) return 0;
+
+        return ( (helper(n-1,k)+k) %n );
+    }
 public:
     int findTheWinner(int n, int k) {
-        queue<int>q;
 
-        for(int i=1;i<=n;i++){
-            q.push(i);
-        }
-
-        while(q.size()!=1){
-            int count=0;
-            int j=k;
-            while(j--){
-                int x=q.front();
-                q.pop();
-                count++;
-                if(count!=k){
-
-                    q.push(x);
-
-                }
-
-            }
-        }
-
-        return q.front();
+        return helper(n,k)+1;
+        
     }
 };
