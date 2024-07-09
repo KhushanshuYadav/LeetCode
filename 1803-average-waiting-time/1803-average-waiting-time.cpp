@@ -7,7 +7,7 @@ public:
         long long int sum=0;
         
 
-        for(auto v:customers){
+        for(auto &v:customers){
 
             if(t<v[0]){
                 t+=abs(v[0]-t);
