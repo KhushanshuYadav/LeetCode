@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/KhushanshuYadav/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/KhushanshuYadav/LeetCode/tree/master/1803-average-waiting-time) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
