@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Database
+|  |
+| ------- |
+| [1292-immediate-food-delivery-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
