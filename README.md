@@ -102,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1278-product-price-at-a-given-date](https://github.com/KhushanshuYadav/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/KhushanshuYadav/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
