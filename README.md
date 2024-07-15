@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/KhushanshuYadav/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/KhushanshuYadav/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/KhushanshuYadav/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/KhushanshuYadav/LeetCode/tree/master/0118-pascals-triangle) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/KhushanshuYadav/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KhushanshuYadav/LeetCode/tree/master/0075-sort-colors) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/KhushanshuYadav/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/KhushanshuYadav/LeetCode/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
