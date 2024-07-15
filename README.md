@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/KhushanshuYadav/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -74,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/0133-clone-graph) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Tree
