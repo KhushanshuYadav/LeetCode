@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/KhushanshuYadav/LeetCode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/KhushanshuYadav/LeetCode/tree/master/0118-pascals-triangle) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushanshuYadav/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/KhushanshuYadav/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
