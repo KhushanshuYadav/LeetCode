@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/KhushanshuYadav/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/KhushanshuYadav/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KhushanshuYadav/LeetCode/tree/master/0053-maximum-subarray) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/KhushanshuYadav/LeetCode/tree/master/0169-majority-element) |
