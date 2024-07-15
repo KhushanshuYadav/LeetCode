@@ -11,6 +11,7 @@ public:
         if(s.find(k-book[i])!=s.end()){
             v.push_back(i);
             v.push_back(s[k-book[i]]);
+            break;
         }
         s[book[i]]=i;
 
