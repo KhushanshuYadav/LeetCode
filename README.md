@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/KhushanshuYadav/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KhushanshuYadav/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/KhushanshuYadav/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KhushanshuYadav/LeetCode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/KhushanshuYadav/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
