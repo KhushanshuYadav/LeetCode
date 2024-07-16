@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/KhushanshuYadav/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/KhushanshuYadav/LeetCode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/KhushanshuYadav/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Union Find
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/KhushanshuYadav/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KhushanshuYadav/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/KhushanshuYadav/LeetCode/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -324,4 +326,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KhushanshuYadav/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/KhushanshuYadav/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/KhushanshuYadav/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
