@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/KhushanshuYadav/LeetCode/tree/master/0626-exchange-seats) |
 | [1278-product-price-at-a-given-date](https://github.com/KhushanshuYadav/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
+| [1480-movie-rating](https://github.com/KhushanshuYadav/LeetCode/tree/master/1480-movie-rating) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/KhushanshuYadav/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Dynamic Programming
 |  |
