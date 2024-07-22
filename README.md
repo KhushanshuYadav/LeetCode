@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/KhushanshuYadav/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/KhushanshuYadav/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KhushanshuYadav/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/KhushanshuYadav/LeetCode/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KhushanshuYadav/LeetCode/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/KhushanshuYadav/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
