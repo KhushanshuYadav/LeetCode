@@ -7,7 +7,7 @@ public:
             m[i]++;
         }
 
-        sort(nums.begin(),nums.end(),  [&m](int a,int b){  if(m[a]==m[b]){return a>b;} else{return m[a]<m[b];}         }     );
+        sort(nums.begin(),nums.end(),  [&](int a,int b){  if(m[a]==m[b]){return a>b;} else{return m[a]<m[b];}         }     );
         return nums;
     }
 };
