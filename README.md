@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/KhushanshuYadav/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/KhushanshuYadav/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/KhushanshuYadav/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/KhushanshuYadav/LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/KhushanshuYadav/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/KhushanshuYadav/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/KhushanshuYadav/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/KhushanshuYadav/LeetCode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/KhushanshuYadav/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/KhushanshuYadav/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
