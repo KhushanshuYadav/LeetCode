@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushanshuYadav/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/KhushanshuYadav/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2227-sum-of-subarray-ranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/KhushanshuYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/KhushanshuYadav/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/KhushanshuYadav/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2227-sum-of-subarray-ranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Union Find
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/KhushanshuYadav/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/KhushanshuYadav/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
