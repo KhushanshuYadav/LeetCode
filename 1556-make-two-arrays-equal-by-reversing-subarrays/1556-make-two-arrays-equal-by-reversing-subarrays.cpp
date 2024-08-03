@@ -4,15 +4,11 @@ public:
 
         int n=arr.size();
 
-        vector<int>freq(1001,0);
+        sort(target.begin(),target.end());
+        sort(arr.begin(),arr.end());
 
         for(int i=0;i<n;i++){
-            freq[target[i]]++;
-            freq[arr[i]]--;
-        }
-
-        for(int i=1;i<1001;i++){
-           if( freq[i]!=0 ) return false;
+            if(target[i]!=arr[i]) return false;
         }
 
         return true;
