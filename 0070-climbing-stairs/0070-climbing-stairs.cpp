@@ -1,25 +1,21 @@
 class Solution {
 private:
-    int fun(int begin,int& n, vector<int>&dp){
-        if(begin>n) return 0;
+    int fun(int n, vector<int>&dp){
+        int prev2=1;
+        int prev1=1;
 
-        if(begin==n){
-            
-            if(dp[begin]!=-1) return dp[begin];
-            else return dp[begin]=1;
-            
-        }
-
-       
-
-        if(dp[begin]!=-1) return dp[begin];
         
-        else {
-            int ones=fun(begin+1,n,dp);
-            int twos=fun(begin+2,n,dp);
-            return ( dp[begin]=ones+twos);
+
+        for(int i=2;i<=n;i++){
+
+            int curr=prev1+prev2;
+            prev2=prev1;
+            prev1=curr;
+            
+
         }
 
+        return prev1;
 
         
         
@@ -35,7 +31,7 @@ public:
         int begin=0;
         int ans=0;
         vector<int>dp(n+1,-1);
-        return fun(begin,n,dp);
+        return fun(n,dp);
 
         
         
