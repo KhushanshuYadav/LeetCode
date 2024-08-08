@@ -40,17 +40,17 @@ public:
 
         
         //TABULATION
-        dp[0]=nums[0];
+        /*dp[0]=nums[0];
        
 
         for(int i=1;i<n;i++){
 
             int v1=0;
 
-            if(i-2<0)   v1=nums[i]+0;
-            else   v1=nums[i]+dp[i-2];
+            if(i-2<0)   v1=nums[i]+0;    
+            else   v1=nums[i]+dp[i-2];  //if we stole then we take max value of  last allowed house i.e i-2;
 
-            int v2=dp[i-1];
+            int v2=dp[i-1];  //if we do not stole then we carry  max value of prev house;
 
             
            
@@ -61,7 +61,21 @@ public:
 
         }
 
-        return dp[n-1];
+        return dp[n-1];*/
+
+        //SPACE optimization
+
+        int prev2_i=0; //dp[i-2]
+        int prev1_i=nums[0];
+
+        for(int i=1;i<n;i++){
+            
+            
+            int curr=max(nums[i]+prev2_i,prev1_i);
+            prev2_i=prev1_i;
+            prev1_i=curr;
+        } 
+        return prev1_i;
 
        
 
