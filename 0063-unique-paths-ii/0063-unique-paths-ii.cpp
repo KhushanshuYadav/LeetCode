@@ -33,49 +33,48 @@ public:
         //return solve(m-1,n-1,dp,obstacleGrid);
 
         //Tabulation 
-        vector<vector<int>>dp(m,vector<int>(n,0));
+        vector<int>prevRow(n,0);
 
         
 
-        if(obstacleGrid[0][0]!=1) dp[0][0]=1;
+        if(obstacleGrid[0][0]!=1) prevRow[0]=1;
 
         for(int col=1;col<n;col++){
 
-            if(obstacleGrid[0][col]!=1 && dp[0][col-1]!=0 )  dp[0][col]=1;
+            if(obstacleGrid[0][col]!=1 && prevRow[col-1]!=0 )  prevRow[col]=1;
            //only one way i.e right from 0,0
 
         }
 
-        for(int row=1;row<m;row++){
-
-            if(obstacleGrid[row][0]!=1 && dp[row-1][0]!=0 ) dp[row][0]=1;
-            //one way i.e down from 0,0
-            
-        }
+        
 
     
 
         
         for(int i=1;i<m;i++){
+            vector<int>currRow(n,0);
+            if(obstacleGrid[i][0]!=1 && prevRow[0]!=0 )  currRow[0]=1;
             for(int j=1;j<n;j++){
 
-                if(obstacleGrid[i][j]==1) dp[i][j]=0;
+                if(obstacleGrid[i][j]==1) currRow[j]=0;
                 
                 else{
 
                     int ans=0;
-                    ans+=dp[i][j-1];
-                    ans+=dp[i-1][j];
+                    ans+=currRow[j-1];
+                    ans+=prevRow[j];
 
-                    dp[i][j]=ans; 
+                    currRow[j]=ans; 
                     
                 }
 
               
             }
+
+            prevRow=currRow;
         }
 
-        return dp[m-1][n-1];
+        return prevRow[n-1];
 
     }
 };
