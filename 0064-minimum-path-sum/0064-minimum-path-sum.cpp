@@ -1,12 +1,12 @@
 class Solution {
-    //return min path sum form cell i,j to cell rows-1,cols-1
-    int solve(int i,int j,int& rows, int& cols,vector<vector<int>>& grid, vector<vector<int>>&dp){
+    //return min path sum from cell 0,0 to cell i,j i.e reverse of first to last
+    int solve(int i,int j,vector<vector<int>>& grid, vector<vector<int>>&dp){
 
-        if(i>=rows || j>=cols) return 10000000;
+        if(i<0|| j<0) return 10000000;
 
         
 
-        if(i==rows-1 && j==cols-1) return grid[i][j];
+        if(i==0 && j==0) return grid[i][j];
 
         if(dp[i][j]!=-1) return dp[i][j];
         
@@ -14,8 +14,8 @@ class Solution {
        
 
         
-        int downSum=grid[i][j]+solve(i,j+1,rows,cols,grid,dp);
-        int rightSum=grid[i][j]+solve(i+1,j,rows,cols,grid,dp);
+        int downSum=grid[i][j]+solve(i,j-1,grid,dp);
+        int rightSum=grid[i][j]+solve(i-1,j,grid,dp);
 
         return (dp[i][j]=min(rightSum,downSum) );
 
@@ -28,7 +28,7 @@ public:
 
         vector<vector<int>>dp(rows,vector<int>(cols,-1));
 
-        return solve(0,0,rows,cols,grid,dp);
+        return solve(rows-1,cols-1,grid,dp);
         
     }
 };
