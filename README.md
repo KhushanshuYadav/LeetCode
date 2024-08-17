@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KhushanshuYadav/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/KhushanshuYadav/LeetCode/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/KhushanshuYadav/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/KhushanshuYadav/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushanshuYadav/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
