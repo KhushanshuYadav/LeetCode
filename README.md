@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/KhushanshuYadav/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/KhushanshuYadav/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/0402-remove-k-digits) |
+| [1250-longest-common-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/KhushanshuYadav/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/KhushanshuYadav/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushanshuYadav/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/KhushanshuYadav/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
