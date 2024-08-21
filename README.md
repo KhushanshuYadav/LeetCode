@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/KhushanshuYadav/LeetCode/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/KhushanshuYadav/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/KhushanshuYadav/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/KhushanshuYadav/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/KhushanshuYadav/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/KhushanshuYadav/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/KhushanshuYadav/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/KhushanshuYadav/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushanshuYadav/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
