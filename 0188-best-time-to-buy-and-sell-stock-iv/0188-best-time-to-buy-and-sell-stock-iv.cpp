@@ -39,9 +39,49 @@ public:
         int n = prices.size();
 
 
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(2, vector<int>(k,-1)));
+       vector<vector<int>> next(2, vector<int>(k+1, 0));
+       vector<vector<int>> curr(2, vector<int>(k+1, 0));
 
-        return solve(0,1,prices,0,dp,k);
+       
+
+       
+        next[0][k] = 0;
+        next[1][k] = 0;
+
+        curr[0][k] = 0;
+        curr[1][k] = 0;
+        
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            for (int canBuy = 0; canBuy <= 1; canBuy++) {
+
+                for (int tCount = k-1; tCount >=0 ; tCount--) {
+
+                    int profit = 0; // no buy sell so profit is zero initially
+
+                    if (canBuy) {
+
+                        int buy = -prices[i] + next[0][tCount];
+                        int notBuy = 0 + next[1][tCount];
+
+                        profit = max(buy, notBuy);
+
+                    } else {
+
+                        int sell = prices[i] +next[1][tCount+1];
+                        int notSell = 0 + next[0][tCount];
+
+                        profit = max(sell, notSell);
+                    }
+
+                   curr[canBuy][tCount] = profit;
+                }
+                next=curr;
+            }
+        }
+
+        return next[1][0];
         
     }
 };
