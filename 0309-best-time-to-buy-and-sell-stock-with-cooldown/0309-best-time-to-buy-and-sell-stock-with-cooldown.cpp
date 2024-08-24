@@ -1,5 +1,7 @@
 class Solution {
 
+    //3D DP
+
     //return max profit from i th day by problem constraints
 
     //isPrevDaySell==1 means we have sold a stock on prev day
