@@ -52,11 +52,40 @@ public:
 
         int n=s.size();
 
-        vector<int>dp(n,-1);
+        //vector<int>dp(n,-1);
 
-        return solve(0,s,n,dp)-1;
+        //return solve(0,s,n,dp)-1;
         //as we also cut at last index it gives one extra cut
         //A | B |C | last cut is not needed
+
+        //TABULATION
+
+        vector<int>dp(n+1,0); //to handle base case better we inc size of table
+
+        for(int i=n-1;i>=0;i--){
+
+            int ans=INT_MAX;
+            for(int k=n-1;k>=i;k--){
+
+                if( isPallindrome(i,k,s) ){
+
+                    int temp=dp[k+1]+1;
+
+                    ans=min(ans,temp);
+
+                }
+
+               
+
+            }
+
+            dp[i]=ans;
+
+        }
+
+        return dp[0]-1;
+
+        
         
     }
 };
