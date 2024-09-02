@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/KhushanshuYadav/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0923-super-egg-drop](https://github.com/KhushanshuYadav/LeetCode/tree/master/0923-super-egg-drop) |
 | [1240-stone-game-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/KhushanshuYadav/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/KhushanshuYadav/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/KhushanshuYadav/LeetCode/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0923-super-egg-drop](https://github.com/KhushanshuYadav/LeetCode/tree/master/0923-super-egg-drop) |
 | [0943-sum-of-subarray-minimums](https://github.com/KhushanshuYadav/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/KhushanshuYadav/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/0493-reverse-pairs) |
+| [0923-super-egg-drop](https://github.com/KhushanshuYadav/LeetCode/tree/master/0923-super-egg-drop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Bit Manipulation
