@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/KhushanshuYadav/LeetCode/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/KhushanshuYadav/LeetCode/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/KhushanshuYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0943-sum-of-subarray-minimums](https://github.com/KhushanshuYadav/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/KhushanshuYadav/LeetCode/tree/master/0735-asteroid-collision) |
+| [0906-walking-robot-simulation](https://github.com/KhushanshuYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/KhushanshuYadav/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/KhushanshuYadav/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/KhushanshuYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1129-longest-string-chain](https://github.com/KhushanshuYadav/LeetCode/tree/master/1129-longest-string-chain) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushanshuYadav/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
