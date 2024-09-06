@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/KhushanshuYadav/LeetCode/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/KhushanshuYadav/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Recursion
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/KhushanshuYadav/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KhushanshuYadav/LeetCode/tree/master/0062-unique-paths) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1240-stone-game-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/KhushanshuYadav/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/KhushanshuYadav/LeetCode/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
