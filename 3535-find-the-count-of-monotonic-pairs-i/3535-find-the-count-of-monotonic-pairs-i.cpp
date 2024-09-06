@@ -13,7 +13,7 @@ class Solution {
 
             int b=nums[i]-a;
 
-            if( ( a>=prev1 && b<=prev2 ) ){
+            if( ( b<=prev2 ) ){
 
                 ans+=solve(i+1,n,nums,a,b,dp);
 
