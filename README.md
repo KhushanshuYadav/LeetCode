@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/KhushanshuYadav/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1129-longest-string-chain](https://github.com/KhushanshuYadav/LeetCode/tree/master/1129-longest-string-chain) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KhushanshuYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushanshuYadav/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushanshuYadav/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushanshuYadav/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KhushanshuYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/KhushanshuYadav/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KhushanshuYadav/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/KhushanshuYadav/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/KhushanshuYadav/LeetCode/tree/master/0476-number-complement) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KhushanshuYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KhushanshuYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Counting
 |  |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1240-stone-game-ii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KhushanshuYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/KhushanshuYadav/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/KhushanshuYadav/LeetCode/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
