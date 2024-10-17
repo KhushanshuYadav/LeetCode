@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KhushanshuYadav/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/KhushanshuYadav/LeetCode/tree/master/0455-assign-cookies) |
+| [0670-maximum-swap](https://github.com/KhushanshuYadav/LeetCode/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/KhushanshuYadav/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/KhushanshuYadav/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0670-maximum-swap](https://github.com/KhushanshuYadav/LeetCode/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0923-super-egg-drop](https://github.com/KhushanshuYadav/LeetCode/tree/master/0923-super-egg-drop) |
 | [1240-stone-game-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1240-stone-game-ii) |
