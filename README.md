@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KhushanshuYadav/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/KhushanshuYadav/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/KhushanshuYadav/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/KhushanshuYadav/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/KhushanshuYadav/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/KhushanshuYadav/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/KhushanshuYadav/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/KhushanshuYadav/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/KhushanshuYadav/LeetCode/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KhushanshuYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KhushanshuYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
