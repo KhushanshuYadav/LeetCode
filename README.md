@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/KhushanshuYadav/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/KhushanshuYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KhushanshuYadav/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KhushanshuYadav/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushanshuYadav/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushanshuYadav/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KhushanshuYadav/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushanshuYadav/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/KhushanshuYadav/LeetCode/tree/master/2035-count-sub-islands) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/KhushanshuYadav/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushanshuYadav/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushanshuYadav/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
