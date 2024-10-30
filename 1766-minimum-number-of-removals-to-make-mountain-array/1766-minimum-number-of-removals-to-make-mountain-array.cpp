@@ -8,11 +8,12 @@ public:
         vector<int>dp2(n,1);
 
         for( int i=0;i<n;i++ ){
-
             for( int pI=0;pI<i;pI++ ){
 
                 if( nums[pI]<nums[i] ) dp1[i]=max(dp1[i],dp1[pI]+1);
+
             }
+
         }
 
         for( int i=n-1;i>=0;i-- ){
