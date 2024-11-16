@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Greedy
 |  |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3483-alternating-groups-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
