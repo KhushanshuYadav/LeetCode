@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/KhushanshuYadav/LeetCode/tree/master/2035-count-sub-islands) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KhushanshuYadav/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2803-modify-graph-edge-weights](https://github.com/KhushanshuYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Greedy
