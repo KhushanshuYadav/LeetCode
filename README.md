@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KhushanshuYadav/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KhushanshuYadav/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KhushanshuYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/KhushanshuYadav/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/KhushanshuYadav/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1240-stone-game-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KhushanshuYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3427-special-array-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/KhushanshuYadav/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/KhushanshuYadav/LeetCode/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
