@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/KhushanshuYadav/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KhushanshuYadav/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/KhushanshuYadav/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushanshuYadav/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/KhushanshuYadav/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/KhushanshuYadav/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/KhushanshuYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KhushanshuYadav/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/KhushanshuYadav/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KhushanshuYadav/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KhushanshuYadav/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushanshuYadav/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
+| [1396-count-servers-that-communicate](https://github.com/KhushanshuYadav/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KhushanshuYadav/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/KhushanshuYadav/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [1396-count-servers-that-communicate](https://github.com/KhushanshuYadav/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/KhushanshuYadav/LeetCode/tree/master/2035-count-sub-islands) |
 ## Database
 |  |
@@ -585,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KhushanshuYadav/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KhushanshuYadav/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/KhushanshuYadav/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/KhushanshuYadav/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
