@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KhushanshuYadav/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushanshuYadav/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/KhushanshuYadav/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KhushanshuYadav/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/KhushanshuYadav/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/KhushanshuYadav/LeetCode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushanshuYadav/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/KhushanshuYadav/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/KhushanshuYadav/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/0133-clone-graph) |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/KhushanshuYadav/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/KhushanshuYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/KhushanshuYadav/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Array
 |  |
