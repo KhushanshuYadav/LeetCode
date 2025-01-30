@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/KhushanshuYadav/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/KhushanshuYadav/LeetCode/tree/master/2035-count-sub-islands) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KhushanshuYadav/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/KhushanshuYadav/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/KhushanshuYadav/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/KhushanshuYadav/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/KhushanshuYadav/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/KhushanshuYadav/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/KhushanshuYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/KhushanshuYadav/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/KhushanshuYadav/LeetCode/tree/master/2035-count-sub-islands) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/KhushanshuYadav/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Database
 |  |
