@@ -30,24 +30,7 @@ class Solution {
         return area;
     }
 
-    void dfsMark(int i,int j,vector<vector<int>>& vis,vector<vector<int>>& grid,vector<vector<int>>& area,int& n,int& a){
-        
-        vis[i][j]=1;
-
-        area[i][j]=a;
-
-        for(int k=0;k<4;k++){
-
-            int newI=i+delRow[k];
-            int newJ=j+delCol[k];
-
-            if( isValid(newI,newJ,n) && grid[newI][newJ]==1 && !vis[newI][newJ]  ){
-                dfsMark(newI,newJ,vis,grid,area,n,a);
-            }
-        }
-
-        return ;
-    }
+    
 
 
 
@@ -89,17 +72,6 @@ public:
             }
         }
 
-        //fill(vis.begin(), vis.end(), vector<int>(n, 0));
-        // for(int i=0;i<n;i++){
-        //     for(int j=0;j<n;j++){
-
-        //         cout<<id[i][j]<<" ";
-
-        //         //if( area[i][j] && !vis[i][j] ) dfsMark(i,j,vis,grid,area,n,area[i][j]);
-
-        //     }
-        //     cout<<endl;
-        // }
 
         int ans=maxA+1;
         
