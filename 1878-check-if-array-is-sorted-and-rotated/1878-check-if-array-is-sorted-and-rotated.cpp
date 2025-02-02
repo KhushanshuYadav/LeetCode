@@ -17,19 +17,37 @@ public:
     bool check(vector<int>& nums) {
         int n=nums.size();
 
-        vector<int>temp=nums;
+        int pivot=-1;
 
-        sort(temp.begin(),temp.end());
+        int count=0;
 
-        if(isEqual(nums,temp)) return true;
+        
 
-        for(int i=0;i<n;i++){
+        for(int i=1;i<n;i++){
 
-            rotate(temp);
+            if(nums[i]<nums[i-1]) {pivot=i;count++;}
 
-            if(isEqual(temp,nums)) return true;
+            
+
         }
 
-        return false;
+        cout<<pivot<<" ";
+        cout<<count;
+
+        if(count>1) return false;
+        if(pivot==-1) return true;
+
+
+        
+        for(int i=pivot;i<n-1;i++){
+
+            if(nums[i]>nums[i+1]) return false;
+        }
+
+        if(nums[n-1]>nums[0]) return false;
+
+        
+
+        return true;
     }
 };
