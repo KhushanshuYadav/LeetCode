@@ -6,38 +6,55 @@ public:
 
         int ans=1;
 
-        for(int i=0;i<n;i++){
+        //stack<vector<int>>st;
 
-            int ansI=1;
+        int ansI=1;
+        int ansD=1;
+        //st.push({nums[0],ansI,ansD});
 
-            for(int j=i+1;j<n;j++){
+        for(int i=1;i<n;i++){
 
-                if(nums[j]<=nums[j-1]) break;
-
+            if( nums[i]>nums[i-1]){
                 ansI++;
-
+                ansD=1;
+                //st.push({nums[i],ansI,ansD});
             }
 
-            cout<<"I "<<ansI<<endl;
-
-            int ansD=1;
-
-            for(int j=i+1;j<n;j++){
-
-                if(nums[j]>=nums[j-1]) break;
-
+            else if( nums[i]<nums[i-1] ){
                 ansD++;
-
+                ansI=1;
+                //st.push({nums[i],ansI,ansD});
             }
 
-            cout<<"D "<<ansD<<endl;
+            else{
+                ansI=1;
+                ansD=1;
+                //st.push({nums[i],ansI,ansD});
+
+            }
 
             ans=max({ans,ansI,ansD});
-
-           cout<<"A "<<ans<<endl;
-
-
         }
+
+        // while(!st.empty()) st.pop();
+
+       
+        // st.push({nums[0],ansD});
+
+        // for(int i=1;i<n;i++){
+
+            
+
+        //     else{
+        //         ansD=1;
+        //         st.push({nums[i],ansD});
+
+        //     }
+
+        //     ans=max(ansD,ans);
+        // }
+
+
 
         return ans;
         
