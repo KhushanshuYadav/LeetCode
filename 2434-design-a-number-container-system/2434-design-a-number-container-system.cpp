@@ -1,7 +1,7 @@
 class NumberContainers {
 
     unordered_map<int,int>iToN; //index,number
-    unordered_map<int,set<int>>nToI; //number,indexSet
+    unordered_map<int,priority_queue<int, vector<int>, greater<int>>>nToI; //number,indexSet
 public:
     NumberContainers() {
         
@@ -9,20 +9,11 @@ public:
     
     void change(int index, int number) {
 
-        if(iToN.count(index)){
-
-            int n=iToN[index];
-            cout<<"n "<<n<<endl;
-
-            auto& s= nToI[n];
-
-            s.erase(index);
-            if(s.empty()) nToI.erase(n);
-        }
+       
 
         iToN[index]=number;
 
-        nToI[number].insert(index);
+        nToI[number].push(index);
 
         
 
@@ -34,9 +25,19 @@ public:
 
         if(!(nToI.count(number))) return -1;
 
-        int ans=*(nToI[number].begin());
+        auto& pq=nToI[number];
 
-        return ans;
+        while(!pq.empty()){
+            int i=pq.top();
+
+            if(number==iToN[i]) return i;
+
+            pq.pop();
+
+
+        }
+
+        return -1;
         
     }
 };
