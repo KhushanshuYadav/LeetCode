@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/KhushanshuYadav/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KhushanshuYadav/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KhushanshuYadav/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Math
 |  |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KhushanshuYadav/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/KhushanshuYadav/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2227-sum-of-subarray-ranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [3447-clear-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/3447-clear-digits) |
 ## Union Find
 |  |
 | ------- |
