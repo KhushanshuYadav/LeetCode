@@ -7,11 +7,11 @@ public:
 
         int ans=0;
 
-        while(!pq.empty()){
+        while(pq.top()<k){  //as soon as smallest element gets >=k so all gets >=k
 
             long x=pq.top();
             pq.pop();
-            if(x>=k) continue;
+            //if(x>=k) continue;
 
             long y=pq.top();
             pq.pop();
