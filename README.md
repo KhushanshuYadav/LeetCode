@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KhushanshuYadav/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KhushanshuYadav/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3427-special-array-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3427-special-array-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/KhushanshuYadav/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/KhushanshuYadav/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KhushanshuYadav/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KhushanshuYadav/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/3447-clear-digits) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KhushanshuYadav/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/KhushanshuYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
 | ------- |
