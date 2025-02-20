@@ -1,34 +1,43 @@
 class Solution {
 
-    bool solve(int start,string temp,unordered_set<string>s,int& n,string& ans){
+    string solve(string temp,unordered_set<string>s,int&n){
 
-        if(start==n){
+        if(temp.size()==n){
 
             if(!s.count(temp)){
-                ans=temp;
-                return true;
+                
+                return temp;
 
             } 
 
-            return false;
+            return "";
 
         }
 
-        if(solve(start+1,temp+'0',s,n,ans)) return true ;
+        string temp2=solve(temp+'0',s,n);
 
-        if(solve(start+1,temp+'1',s,n,ans) ) return true ;
+        if(temp2.size()>0) return temp2;
 
-        return false;
+        //as zero means not found
+
+        return solve(temp+'1',s,n);
+        //as one call will definately give answer and if not +'0' then +'1'
+
+        
     }
 public:
     string findDifferentBinaryString(vector<string>& nums) {
 
-        unordered_set<string>s(nums.begin(),nums.end());
-        string ans="";
+        string ans;
+        int  n=nums.size();
 
-        int n=nums[0].size();
+        for(int i=0;i<n;i++){
 
-        solve(0,"",s,n,ans);
+            char c=nums[i][i];
+
+            ans.push_back(c=='1'?'0':'1');
+
+        }
 
         return ans;
 
