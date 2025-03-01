@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KhushanshuYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KhushanshuYadav/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2551-apply-operations-to-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KhushanshuYadav/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/KhushanshuYadav/LeetCode/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KhushanshuYadav/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2551-apply-operations-to-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/KhushanshuYadav/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KhushanshuYadav/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/KhushanshuYadav/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
