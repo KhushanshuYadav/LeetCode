@@ -4,10 +4,13 @@
  * @return {number[]}
  */
 var filter = function(arr, fn) {
-    let ans=new Array();
-    for(let i=0;i<arr.length;i++){
+    let ans=[];
 
-        if( fn(arr[i],i) ) ans.push(arr[i]);
-    }
+    arr.forEach(
+        (num,i)=>{
+            if(fn(num,i)) ans.push(num);
+        }
+    )
+    
     return ans;
 };
