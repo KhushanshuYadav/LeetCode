@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/KhushanshuYadav/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KhushanshuYadav/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/KhushanshuYadav/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/KhushanshuYadav/LeetCode/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/KhushanshuYadav/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KhushanshuYadav/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/KhushanshuYadav/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/KhushanshuYadav/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/KhushanshuYadav/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KhushanshuYadav/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
