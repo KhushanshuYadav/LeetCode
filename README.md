@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/KhushanshuYadav/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/KhushanshuYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KhushanshuYadav/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
