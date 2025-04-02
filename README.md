@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1480-movie-rating](https://github.com/KhushanshuYadav/LeetCode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/KhushanshuYadav/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
+| [1811-fix-names-in-a-table](https://github.com/KhushanshuYadav/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/KhushanshuYadav/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Dynamic Programming
 |  |
