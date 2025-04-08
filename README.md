@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KhushanshuYadav/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
 |  |
 | ------- |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/KhushanshuYadav/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3498-minimum-array-changes-to-make-differences-equal](https://github.com/KhushanshuYadav/LeetCode/tree/master/3498-minimum-array-changes-to-make-differences-equal) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KhushanshuYadav/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
 | ------- |
