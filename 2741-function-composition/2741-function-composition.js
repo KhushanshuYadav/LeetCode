@@ -5,18 +5,8 @@
 var compose = function(functions) {
     
     return function(x) {
-
-        let ans=x;
-
-        const n=functions.length;
-        for(let i=n-1;i>=0;i--){
-
-            let f=functions[i];
-            ans=f(ans);
-        }
-
-        return ans;
-        
+        return functions.reduceRight((acc,curr)=>{return curr(acc) },x);
+        //here acc in int result while curr a function in list
     }
 };
 
