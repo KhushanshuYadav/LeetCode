@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KhushanshuYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/KhushanshuYadav/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/KhushanshuYadav/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KhushanshuYadav/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/KhushanshuYadav/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhushanshuYadav/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KhushanshuYadav/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/KhushanshuYadav/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -947,4 +950,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/KhushanshuYadav/LeetCode/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/KhushanshuYadav/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
