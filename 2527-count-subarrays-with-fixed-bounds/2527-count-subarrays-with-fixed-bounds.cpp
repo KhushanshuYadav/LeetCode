@@ -19,6 +19,7 @@ public:
             if(nums[i]==maxK) mxIdx=i;
 
             int  count=max(0,min(mnIdx,mxIdx)-brkIdx);
+            //for each element ending at i we have choice of start elemet dfrom brkIdx+1 to min(mnIdx,mxIdx)
 
             ans+=count;
         }
