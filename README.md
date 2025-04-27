@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KhushanshuYadav/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/KhushanshuYadav/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Greedy
 |  |
 | ------- |
