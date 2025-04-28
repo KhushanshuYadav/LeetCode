@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/KhushanshuYadav/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3427-special-array-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3427-special-array-ii) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhushanshuYadav/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KhushanshuYadav/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/KhushanshuYadav/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KhushanshuYadav/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
