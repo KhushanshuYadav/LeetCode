@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KhushanshuYadav/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/KhushanshuYadav/LeetCode/tree/master/1656-count-good-triplets) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushanshuYadav/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KhushanshuYadav/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushanshuYadav/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/KhushanshuYadav/LeetCode/tree/master/2502-sort-the-people) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/KhushanshuYadav/LeetCode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KhushanshuYadav/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KhushanshuYadav/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KhushanshuYadav/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-super-egg-drop](https://github.com/KhushanshuYadav/LeetCode/tree/master/0923-super-egg-drop) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KhushanshuYadav/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/KhushanshuYadav/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/KhushanshuYadav/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
