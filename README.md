@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/KhushanshuYadav/LeetCode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/KhushanshuYadav/LeetCode/tree/master/0735-asteroid-collision) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KhushanshuYadav/LeetCode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/KhushanshuYadav/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/KhushanshuYadav/LeetCode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1129-longest-string-chain](https://github.com/KhushanshuYadav/LeetCode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KhushanshuYadav/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/KhushanshuYadav/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KhushanshuYadav/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/KhushanshuYadav/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KhushanshuYadav/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KhushanshuYadav/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1364-tuple-with-same-product](https://github.com/KhushanshuYadav/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/KhushanshuYadav/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -804,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhushanshuYadav/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KhushanshuYadav/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
