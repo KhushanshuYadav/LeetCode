@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KhushanshuYadav/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-count-sub-islands](https://github.com/KhushanshuYadav/LeetCode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/KhushanshuYadav/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/KhushanshuYadav/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KhushanshuYadav/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/KhushanshuYadav/LeetCode/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KhushanshuYadav/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/KhushanshuYadav/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/KhushanshuYadav/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
