@@ -2,29 +2,50 @@ class Solution {
 public:
     vector<string> removeSubfolders(vector<string>& folder) {
 
-        unordered_set<string>s(folder.begin(),folder.end());
+        sort(folder.begin(),folder.end(),[&](string& s1,string& s2){return s1.size()<s2.size();});
+
+        unordered_set<string>st;
+
         vector<string>ans;
 
-        for(string currF:folder){
+        for(string& s:folder){
+
+            cout<<"s "<<s<<endl;
+
+            int n=s.size();
 
             bool flag=false;
-            string temp=currF;
 
-            while(!currF.empty()){
+            string temp="";
 
-                auto ind= currF.find_last_of('/');
+            temp.push_back(s[0]);
 
-                currF=currF.substr(0,ind);
+            for(int i=1;i<n;i++){
 
-                if(s.count(currF)){
-                    flag=true;
-                    break;
+                if(s[i]!='/') temp.push_back(s[i]);
+
+                else{
+                    cout<<"temp "<<temp<<endl;
+
+                    if(st.count(temp)){
+                        flag=true;
+                        break;
+
+                    }
+                    else {
+                        temp.push_back(s[i]);
+                        continue;
+                    }
                 }
             }
+            st.insert(s);
 
-            if(!flag) ans.push_back(temp);
+            cout<<"flag "<<flag<<endl;
 
+            if(!flag) ans.push_back(s);
         }
+
+
 
         return ans;
         
