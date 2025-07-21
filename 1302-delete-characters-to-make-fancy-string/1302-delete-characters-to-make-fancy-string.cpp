@@ -2,39 +2,34 @@ class Solution {
 public:
     string makeFancyString(string s) {
 
-        string ans;
+        int l=0;
+        int r=0;
 
         int n=s.size();
-        int count=1;
 
-        for(int i=0;i<n-1;i++){
+        string ans="";
 
-            if(s[i]==s[i+1]){
-                count++;
-            }
-            else{
+        while(r<=n){
 
-                if(count>=2){
-                    ans.push_back(s[i]);
-                    ans.push_back(s[i]);
-                    count=1;
+            if(s[r]!=s[l]){
+
+                if((r-l)>=2){
+                    ans.push_back(s[l]);
+                    ans.push_back(s[l]);
                 }
-
                 else{
-                    ans.push_back(s[i]);
+                    ans.push_back(s[l]);
                 }
+                
+                l=r;
+
             }
+
+            r++;
 
             
         }
 
-        if(count==1) ans.push_back(s[n-1]);
-        else {
-            ans.push_back(s[n-1]);
-            ans.push_back(s[n-1]);
-        }
-
-        
         return ans;
         
     }
