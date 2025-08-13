@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KhushanshuYadav/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/KhushanshuYadav/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/KhushanshuYadav/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/KhushanshuYadav/LeetCode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/KhushanshuYadav/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/KhushanshuYadav/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/KhushanshuYadav/LeetCode/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/KhushanshuYadav/LeetCode/tree/master/2050-count-good-numbers) |
 ## Queue
