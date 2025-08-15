@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/KhushanshuYadav/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KhushanshuYadav/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/KhushanshuYadav/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/KhushanshuYadav/LeetCode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/KhushanshuYadav/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KhushanshuYadav/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/KhushanshuYadav/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KhushanshuYadav/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/KhushanshuYadav/LeetCode/tree/master/2050-count-good-numbers) |
 ## Queue
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KhushanshuYadav/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/KhushanshuYadav/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/KhushanshuYadav/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/KhushanshuYadav/LeetCode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/KhushanshuYadav/LeetCode/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/KhushanshuYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KhushanshuYadav/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
