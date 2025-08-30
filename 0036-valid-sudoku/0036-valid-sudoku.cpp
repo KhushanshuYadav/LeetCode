@@ -1,38 +1,36 @@
 class Solution {
 
-    bool check(char& c,int& row,int& col, vector<vector<char>>& board){
 
-        
-
-        for(int i=0;i<9;i++) if(i!=col && board[row][i]==c) return false;
-        
-        for(int i=0;i<9;i++) if(i!=row && board[i][col]==c) return false;
-
-        int sR=row-row%3;
-        int sC=col-col%3;
-
-        for(int i=sR;i<sR+3;i++){
-            for(int j=sC;j<sC+3;j++){
-                if(i!=row && j!=col && board[i][j]==c) return false;
-            }
-        }
-
-        return true;
-
-    }
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
+
+        vector<bitset<9>>rows(9);
+        vector<bitset<9>>cols(9);
+        vector<bitset<9>>box(9);
+
 
         for(int i=0;i<9;i++){
             for(int j=0;j<9;j++){
 
                 if(board[i][j]!='.'){
                     
-                    if( !check(board[i][j],i,j,board) ) return false;
+                    int x=(board[i][j]-'0');
+
+                    int b=(i/3)*3+(j/3);
+
+                    if(rows[i][x] || cols[j][x] || box[b][x]) return false;
+
+                    rows[i][x]=1;
+                    cols[j][x]=1;
+                    box[b][x]=1;
+
+                   
                 }
 
             }
         }
+
+      
 
         return true;
         
