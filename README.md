@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3511-find-the-winning-player-in-coin-game](https://github.com/KhushanshuYadav/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/KhushanshuYadav/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3830-find-closest-person](https://github.com/KhushanshuYadav/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
