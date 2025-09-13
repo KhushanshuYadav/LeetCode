@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KhushanshuYadav/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/KhushanshuYadav/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/KhushanshuYadav/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/KhushanshuYadav/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/KhushanshuYadav/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
 | ------- |
