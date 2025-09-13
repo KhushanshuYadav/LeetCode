@@ -13,13 +13,7 @@ var ArrayWrapper = function(nums) {
  */
 ArrayWrapper.prototype.valueOf = function() {
 
-    let num=0;
-    for(let e of this.nums){
-        num+=e;
-    }
-
-    return num;
-
+    return this.nums.reduce((res,e)=>res+e,0);
     
 }
 
@@ -28,7 +22,7 @@ ArrayWrapper.prototype.valueOf = function() {
  */
 ArrayWrapper.prototype.toString = function() {
 
-    return "["+this.nums.toString()+"]";
+    return `[${this.nums.join(',')}]`;
     
 }
 
