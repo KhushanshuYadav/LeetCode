@@ -17,12 +17,10 @@ class Solution {
 
         inOrder(root->left,prev,n1,n2);
 
-        if(!n1 && prev && prev->val>root->val) {
-            n1=prev;
-            n2=root;
+        if (prev && prev->val > root->val) {
+            if (!n1) n1 = prev;
+            n2 = root;
         }
-
-        else if(prev && prev->val>root->val) n2=root;
 
         prev=root;
 
