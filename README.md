@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/KhushanshuYadav/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/KhushanshuYadav/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/KhushanshuYadav/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/KhushanshuYadav/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KhushanshuYadav/LeetCode/tree/master/0342-power-of-four) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KhushanshuYadav/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KhushanshuYadav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/KhushanshuYadav/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/KhushanshuYadav/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/KhushanshuYadav/LeetCode/tree/master/0242-valid-anagram) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/KhushanshuYadav/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/KhushanshuYadav/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/KhushanshuYadav/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/KhushanshuYadav/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/KhushanshuYadav/LeetCode/tree/master/0242-valid-anagram) |
