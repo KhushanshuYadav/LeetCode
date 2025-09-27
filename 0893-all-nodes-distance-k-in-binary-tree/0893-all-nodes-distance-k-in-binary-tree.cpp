@@ -15,11 +15,11 @@ class Solution {
 
         if(d==k) ans.push_back(curr->val);
 
-        if(curr->left && !vis.count(curr->left)) solve(curr->left,d+1,k,vis,ans,parent);
+        if(d<k && curr->left && !vis.count(curr->left)) solve(curr->left,d+1,k,vis,ans,parent);
 
-        if(curr->right && !vis.count(curr->right)) solve(curr->right,d+1,k,vis,ans,parent);
+        if(d<k && curr->right && !vis.count(curr->right)) solve(curr->right,d+1,k,vis,ans,parent);
 
-        if(parent[curr] && !vis.count(parent[curr])) solve(parent[curr],d+1,k,vis,ans,parent);
+        if(d<k && parent[curr] && !vis.count(parent[curr])) solve(parent[curr],d+1,k,vis,ans,parent);
     }
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
