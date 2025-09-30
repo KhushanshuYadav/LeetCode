@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2429-design-a-food-rating-system](https://github.com/KhushanshuYadav/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KhushanshuYadav/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KhushanshuYadav/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/KhushanshuYadav/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/KhushanshuYadav/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/KhushanshuYadav/LeetCode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/KhushanshuYadav/LeetCode/tree/master/2155-find-missing-observations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KhushanshuYadav/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/KhushanshuYadav/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/KhushanshuYadav/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KhushanshuYadav/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/KhushanshuYadav/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Indexed Tree
