@@ -1,10 +1,15 @@
 class Solution {
 public:
     int numWaterBottles(int numBottles, int numExchange) {
-        //unitary methid based solution;
 
-        return (
-            numBottles+(numBottles-1)/(numExchange-1)
-        );
+        int ans=numBottles;
+
+        while(numBottles>=numExchange){
+            int youGet=numBottles/numExchange;
+            ans+=youGet;
+            int leftAtyou=numBottles%numExchange;
+            numBottles=youGet+leftAtyou;
+        }
+        return ans;
     }
 };
