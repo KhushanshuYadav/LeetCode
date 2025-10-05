@@ -1,61 +1,81 @@
 class Solution {
+
+    int delR[4]={-1,0,+1,0};
+    int delC[4]={0,+1,0,-1};
+
+    int valid(int& i,int& j,int& rows,int& cols){
+        return (i<rows && i>=0 && j<cols && j>=0);
+    }
+
+   
 public:
     int orangesRotting(vector<vector<int>>& grid) {
 
-        int deltaR[] = {-1, 0, 1, 0};
-        int deltaC[] = {0, 1, 0, -1};
+        int rows=grid.size();
+        int cols=grid[0].size();
 
-        int ans = -1;
-        int n = grid.size();
-        int m = grid[0].size();
+        queue<vector<int>>q;
 
-        queue<pair<int, int>> q;
+        int ans=0;
 
-        int count = 0;
-        for (int i = 0; i < n; i++) {
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
 
-            for (int j = 0; j < m; j++) {
+                if(grid[i][j]==2) q.push({i,j});
 
-                if (grid[i][j] == 1)
-                    count++;
-                else if (grid[i][j] == 2) {
-                    q.push({i, j});
-                }
+                
+
             }
         }
 
-        int c1 = 0;
+        
+        while(!q.empty()){
 
-        while (!q.empty()) {
+            bool f=false;
 
-            int s = q.size();
-            while (s--) {
+            int s=q.size();
 
-                auto p = q.front();
-                int r = p.first;
-                int c = p.second;
-                //int t = p.second;
+            for(int i=0;i<s;i++){
 
+               
+
+                int r=q.front()[0];
+                int c=q.front()[1];
                 q.pop();
 
-                for (int i = 0; i < 4; i++) {
-                    int nR = r + deltaR[i];
-                    int nC = c + deltaC[i];
-                    if (nR >= 0 && nR < n && nC >= 0 && nC < m &&
-                        grid[nR][nC] == 1) {
-                        grid[nR][nC] = 2;
-                        q.push({nR, nC});
-                        c1++;
+                for(int i=0;i<4;i++){
+
+                    int newR=r+delR[i];
+                    int newC=c+delC[i];
+
+                    if(valid(newR,newC,rows,cols) && grid[newR][newC]==1){
+                        grid[newR][newC]=2;
+                        f=true;
+                        q.push({newR,newC});
+                    
                     }
                 }
+
             }
 
-            ans++;
+            if(f) ans++;
+
+
+
+            
+
+          
         }
 
-        if (count != c1 )
-            return -1;
-        if(ans==-1) return 0;
+
+
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                if(grid[i][j]==1) return -1;
+            }
+        }
+
         return ans;
+        
     }
 };
