@@ -1,54 +1,69 @@
-class Solution {
-    int delR[4]={-1,0,+1,0};
-    int delC[4]={0,+1,0,-1};
+    class Solution {
+        int delR[4]={-1,0,+1,0};
+        int delC[4]={0,+1,0,-1};
 
-    int isValid(int& i,int& j,int& rows,int& cols){
-        return (i<rows && i>=0 && j<cols && j>=0);
-    }
-public:
-    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-
-        int n=mat.size();
-        int m=mat[0].size();
-
-        vector<vector<int>>ans(n,vector<int>(m,-1));
-
-        queue<vector<int>>q;
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-
-                if(mat[i][j]==1)  continue;
-                
-                ans[i][j]=0;
-                q.push({i,j});
-            }
+        int isValid(int& i,int& j,int& rows,int& cols){
+            return (i<rows && i>=0 && j<cols && j>=0);
         }
+    public:
+        vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
 
-        while(!q.empty()){
+            int rows=mat.size();
+            int cols=mat[0].size();
 
-            int i=q.front()[0];
-            int j=q.front()[1];
-            q.pop();
+            for(int i=0;i<rows;i++){
+                for(int j=0;j<cols;j++){
 
-            for(int k=0;k<4;k++){
+                    if(mat[i][j]==0) continue;
 
-                int newI=i+delR[k];
-                int newJ=j+delC[k];
 
-                if(isValid(newI,newJ,n,m) && ans[newI][newJ]==-1){
-                    ans[newI][newJ]=ans[i][j]+1;
-                    q.push({newI,newJ});
+                    int mn=INT_MAX;
+                    for(int k=0;k<4;k+=3){
+
+                        int newI=i+delR[k];
+                        int newJ=j+delC[k];
+
+                        if(isValid(newI,newJ,rows,cols)){
+                            mn=min(mn,mat[newI][newJ]);
+                        }
+                    
+                    }
+
+                    if(mn!=INT_MAX) mn+=1;
+
+                    mat[i][j]=mn;
+
+                        
+                    
                 }
-
             }
+
+            for(int i=rows-1;i>=0;i--){
+                for(int j=cols-1;j>=0;j--){
+
+                    if(mat[i][j]==0) continue;
+
+
+                    int mn=INT_MAX;
+                    for(int k=1;k<3;k+=1){
+
+                        int newI=i+delR[k];
+                        int newJ=j+delC[k];
+
+                        if(isValid(newI,newJ,rows,cols)){
+                            mn=min(mn,mat[newI][newJ]);
+                        }
+                    
+                    }
+                    if(mn!=INT_MAX) mn+=1;
+
+                    mat[i][j]=min(mat[i][j],mn);
+
+                        
+                    
+                }
+            }
+            return mat;
+            
         }
-
-        return ans;
-
-       
-       
-       
-        
-    }
-};
+    };
