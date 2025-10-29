@@ -2,16 +2,14 @@ class Solution {
 public:
     int smallestNumber(int n) {
 
-        
+        int ans=0;
 
-        set<int>s;
+        while(ans<n){
 
-        for(int i=0;i<=n;){
-            s.insert((2*i)+1);
-            i=(2*i)+1;
+           
+           
+            ans = (ans<<1)+1;
         }
-
-        int ans=*lower_bound(s.begin(),s.end(),n);
 
         return ans;
 
