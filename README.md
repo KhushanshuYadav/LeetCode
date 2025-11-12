@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/KhushanshuYadav/LeetCode/tree/master/2155-find-missing-observations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KhushanshuYadav/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/KhushanshuYadav/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KhushanshuYadav/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/KhushanshuYadav/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KhushanshuYadav/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/KhushanshuYadav/LeetCode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/KhushanshuYadav/LeetCode/tree/master/2155-find-missing-observations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/KhushanshuYadav/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KhushanshuYadav/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
