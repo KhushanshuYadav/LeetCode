@@ -5,20 +5,15 @@ public:
         int count=0;
         int n=nums.size();
 
-        int i=0;
+        int prev=-1e9;
 
-        while(i<n && nums[i]==0){
-            cout<<"i"<<endl;
-            i++;
-        }
+       
 
-        int I=i;
+        for(int i=0;i<n;i++){
 
-        for(;i<n;i++){
-
-            if( i!=I && nums[i]==1 ){
-                if(count<k) return false;
-                count=0;
+            if( nums[i]==1 ){
+                if(i-prev-1<k) return false;
+                prev=i;
             }
             else if(nums[i]==0) count++;
         }
