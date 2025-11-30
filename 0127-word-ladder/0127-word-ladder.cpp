@@ -68,6 +68,7 @@ public:
 
                 if(adj==endWord) {
                     ans=min(ans,step);
+                    return ans;
                 }
 
                 if(!vis.count(adj)){
