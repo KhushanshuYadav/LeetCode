@@ -80,7 +80,7 @@ public:
 
                         if(words.count(temp) && !vis.count(temp)){
                             
-                            cout<<s<<" "<<temp<<" "<<step<<endl;
+                            
                             q.push(temp);
                             vis.insert(temp);
                         }
