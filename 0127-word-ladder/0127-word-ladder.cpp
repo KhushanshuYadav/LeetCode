@@ -67,8 +67,8 @@ public:
             for(auto& adj:graph[s]){
 
                 if(adj==endWord) {
-                    ans=min(ans,step);
-                    return ans;
+                    
+                    return step;
                 }
 
                 if(!vis.count(adj)){
