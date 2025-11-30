@@ -45,14 +45,7 @@ public:
 
         auto graph =buildGraph(beginWord,wordList);
 
-        for(auto&[s1,s]:graph){
-            cout<<s1<<"->";
-            for(auto&s2:s){
-                cout<<s2<<" ";
-            }
-            cout<<endl;
-        }
-
+       
         int ans=INT_MAX;
 
         queue<pair<string,int>>q;
@@ -84,7 +77,7 @@ public:
 
             
 
-            cout<<s<<" "<<ans<<endl;
+            
         }
 
 
