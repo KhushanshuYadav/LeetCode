@@ -62,6 +62,8 @@ public:
 
             int size=q.size();
 
+            step++;
+
             for(int i=0;i<size;i++){
                 
                 string s=q.front();
@@ -74,7 +76,7 @@ public:
                         string temp=s;
                         temp[j]=n;
 
-                        if(temp==endWord && words.count(temp)) return step+1;
+                        if(temp==endWord && words.count(temp)) return step;
 
                         if(words.count(temp) && !vis.count(temp)){
                             
@@ -87,7 +89,7 @@ public:
 
             }
 
-            step++;
+            
             
 
         }
