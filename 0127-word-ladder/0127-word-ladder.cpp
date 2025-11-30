@@ -43,44 +43,56 @@ class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
 
-       auto graph =buildGraph(beginWord,wordList);
+       //auto graph =buildGraph(beginWord,wordList);
         
-        int ans=INT_MAX;
+        //int ans=INT_MAX;
 
-         vector<vector<string>>v;
+        unordered_set<string>words(wordList.begin(),wordList.end());
 
-        queue<pair<string,int>>q;
+        queue<string>q;
 
-        q.push({beginWord,1});
+        q.push(beginWord);
 
         unordered_set<string>vis;
         vis.insert(beginWord);
 
+        int step=1;
+
         while(!q.empty()){
 
-            string s=q.front().first;
-            int step=q.front().second;
-            q.pop();
+            int size=q.size();
+
+            for(int i=0;i<size;i++){
+                
+                string s=q.front();
+           
+                q.pop();
+
+                for(int j=0;j<s.size();j++){
+
+                    for(char n='a';n<='z';n++){
+                        string temp=s;
+                        temp[j]=n;
+
+                        if(temp==endWord && words.count(temp)) return step+1;
+
+                        if(words.count(temp) && !vis.count(temp)){
+                            
+                            cout<<s<<" "<<temp<<" "<<step<<endl;
+                            q.push(temp);
+                            vis.insert(temp);
+                        }
+                    }
+                }
+
+            }
 
             step++;
             
-            for(auto& adj:graph[s]){
-
-                if(adj==endWord) {
-                    
-                    return step;
-                }
-
-                if(!vis.count(adj)){
-                  
-                    q.push({adj,step});
-                    vis.insert(adj);
-                }
-            }
 
         }
 
-        return ans==INT_MAX?0:ans;
+        return 0;
 
 
 
