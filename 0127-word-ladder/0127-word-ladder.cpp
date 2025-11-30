@@ -43,10 +43,11 @@ class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
 
-        auto graph =buildGraph(beginWord,wordList);
-
-       
+       auto graph =buildGraph(beginWord,wordList);
+        
         int ans=INT_MAX;
+
+         vector<vector<string>>v;
 
         queue<pair<string,int>>q;
 
@@ -56,33 +57,29 @@ public:
         vis.insert(beginWord);
 
         while(!q.empty()){
+
             string s=q.front().first;
             int step=q.front().second;
             q.pop();
 
             step++;
-
-
+            
             for(auto& adj:graph[s]){
 
+                if(adj==endWord) {
+                    ans=min(ans,step);
+                }
 
                 if(!vis.count(adj)){
-                    if(adj==endWord) ans=min(ans,step);
+                  
                     q.push({adj,step});
                     vis.insert(adj);
                 }
-
-
             }
 
-            
-
-            
         }
 
-
         return ans==INT_MAX?0:ans;
-
 
 
 
