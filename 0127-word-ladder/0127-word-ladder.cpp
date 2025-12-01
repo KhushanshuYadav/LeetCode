@@ -62,13 +62,15 @@ public:
 
             int size=q.size();
 
-            step++;
-
             for(int i=0;i<size;i++){
                 
                 string s=q.front();
            
                 q.pop();
+
+                if(s==endWord) return step;
+
+                
 
                 for(int j=0;j<s.size();j++){
 
@@ -76,11 +78,9 @@ public:
                         string temp=s;
                         temp[j]=n;
 
-                        if(temp==endWord && words.count(temp)) return step;
-
                         if(words.count(temp) && !vis.count(temp)){
                             
-                            
+                            cout<<s<<" "<<temp<<" "<<step<<endl;
                             q.push(temp);
                             vis.insert(temp);
                         }
@@ -89,7 +89,7 @@ public:
 
             }
 
-            
+            step++;
             
 
         }
