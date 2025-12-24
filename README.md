@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/KhushanshuYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3074-apple-redistribution-into-boxes](https://github.com/KhushanshuYadav/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/KhushanshuYadav/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KhushanshuYadav/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/KhushanshuYadav/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3074-apple-redistribution-into-boxes](https://github.com/KhushanshuYadav/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KhushanshuYadav/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/KhushanshuYadav/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/KhushanshuYadav/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/KhushanshuYadav/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
