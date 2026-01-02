@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushanshuYadav/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/KhushanshuYadav/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KhushanshuYadav/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KhushanshuYadav/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KhushanshuYadav/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/KhushanshuYadav/LeetCode/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/KhushanshuYadav/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KhushanshuYadav/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KhushanshuYadav/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KhushanshuYadav/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KhushanshuYadav/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/KhushanshuYadav/LeetCode/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/KhushanshuYadav/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KhushanshuYadav/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/KhushanshuYadav/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/KhushanshuYadav/LeetCode/tree/master/0735-asteroid-collision) |
 | [0797-rabbits-in-forest](https://github.com/KhushanshuYadav/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/KhushanshuYadav/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/KhushanshuYadav/LeetCode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0721-accounts-merge](https://github.com/KhushanshuYadav/LeetCode/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/KhushanshuYadav/LeetCode/tree/master/1129-longest-string-chain) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/KhushanshuYadav/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KhushanshuYadav/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KhushanshuYadav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0721-accounts-merge](https://github.com/KhushanshuYadav/LeetCode/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/KhushanshuYadav/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/KhushanshuYadav/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -672,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/KhushanshuYadav/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/KhushanshuYadav/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/KhushanshuYadav/LeetCode/tree/master/0664-strange-printer) |
+| [0721-accounts-merge](https://github.com/KhushanshuYadav/LeetCode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KhushanshuYadav/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/KhushanshuYadav/LeetCode/tree/master/0952-word-subsets) |
@@ -751,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/KhushanshuYadav/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/KhushanshuYadav/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KhushanshuYadav/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/KhushanshuYadav/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/KhushanshuYadav/LeetCode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1073-number-of-enclaves) |
