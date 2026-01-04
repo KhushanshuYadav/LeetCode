@@ -116,38 +116,55 @@ class Solution {
     }
 
 public:
-    int swimInWater(vector<vector<int>>& grid) {
+    int swimInWater(vector<vector<int>>& heights) {
 
-        int n=grid.size();
+        int rows=heights.size();
+        int cols=heights[0].size();
 
-        int mn=INT_MAX;
-        int mx=INT_MIN;
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-
-                mn=min(mn,grid[i][j]);
-                mx=max(mx,grid[i][j]);
-
-            }
-        }
-
-        int ans=INT_MIN;
         
-        while(mn<=mx){
 
-            int mid= mn+(mx-mn)/2;
+        vector<vector<int>>dis(rows,vector<int>(cols,INT_MAX));//store min across all paths
 
-            if(bfs(grid,mid)) {
-                ans=mid;
-                mx=mid-1;
+        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>>pq;
+
+        pq.push({heights[0][0],0,0});
+        dis[0][0]=heights[0][0];
+
+        while(!pq.empty()){
+
+            int C=pq.top()[0]; //cost till r,c from 0,0
+            int r=pq.top()[1];
+            int c=pq.top()[2];
+
+            pq.pop();
+
+            if(r==rows-1 && c==cols-1) return C;
+
+            if(C>dis[r][c]) continue;      //C can be == or > not < to avoid stale entry
+
+            for(int k=0;k<4;k++){
+
+                int newR=r+delR[k];
+                int newC=c+delC[k];
+
+                if(newR>=0 && newR<rows && newC>=0 && newC<cols){
+
+                    int cost = heights[newR][newC]; //cost from r,c to newR,newC
+
+                    int maxPathCost=max(cost,C);  //the max cost of curr path either of r,c or newR,newC as both in same path
+
+                    if(dis[newR][newC]>maxPathCost){
+                        dis[newR][newC]=maxPathCost;
+                        pq.push({dis[newR][newC],newR,newC});
+                    }
+
+
+                }
+
             }
-
-            else mn=mid+1;
-
-
         }
 
-        return ans;        
+
+        return 0;   
     }
 };
