@@ -46,7 +46,7 @@ private:
 
             else{
 
-                lowestTime[node]=min(lowestTime[node],lowestTime[adjNode]);
+                lowestTime[node]=min(lowestTime[node],inTime[adjNode]);
 
             }
         }
