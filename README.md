@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/KhushanshuYadav/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/KhushanshuYadav/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1192-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1300-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/KhushanshuYadav/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/KhushanshuYadav/LeetCode/tree/master/0743-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/KhushanshuYadav/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/KhushanshuYadav/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1192-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1300-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/KhushanshuYadav/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-path-with-maximum-probability](https://github.com/KhushanshuYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -1171,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Biconnected Component
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1300-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 ## Binary Search Tree
 |  |
