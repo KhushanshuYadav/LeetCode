@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/KhushanshuYadav/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/KhushanshuYadav/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1300-critical-connections-in-a-network](https://github.com/KhushanshuYadav/LeetCode/tree/master/1300-critical-connections-in-a-network) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KhushanshuYadav/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/KhushanshuYadav/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KhushanshuYadav/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/KhushanshuYadav/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1124,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/KhushanshuYadav/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/KhushanshuYadav/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KhushanshuYadav/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/KhushanshuYadav/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
