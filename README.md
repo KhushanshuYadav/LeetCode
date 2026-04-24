@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/KhushanshuYadav/LeetCode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KhushanshuYadav/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/KhushanshuYadav/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2833-furthest-point-from-origin](https://github.com/KhushanshuYadav/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KhushanshuYadav/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/KhushanshuYadav/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/KhushanshuYadav/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/KhushanshuYadav/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/KhushanshuYadav/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/KhushanshuYadav/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/KhushanshuYadav/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/KhushanshuYadav/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
