@@ -1223,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KhushanshuYadav/LeetCode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/KhushanshuYadav/LeetCode/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/KhushanshuYadav/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KhushanshuYadav/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KhushanshuYadav/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
